@@ -45,3 +45,5 @@ desktop.ini
 .vscode/
 .idea/
 
+# docx
+docs/final-report.docx
