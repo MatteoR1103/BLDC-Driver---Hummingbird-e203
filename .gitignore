@@ -1,0 +1,47 @@
+# Build products
+build/
+out/
+dist/
+
+# Simulation outputs
+*.vcd
+*.fst
+*.fsdb
+*.lxt
+*.lxt2
+*.vvp
+sim/wave.out
+sim/waveout*
+sim/iverilog_sim_sys_tb
+hardware/rtl/bldc/tb_wo*
+
+# Firmware build products
+firmware/**/Debug/
+*.elf
+*.hex
+*.map
+*.o
+*.d
+
+# Gowin generated implementation outputs
+fpga/gowin/impl/
+fpga/gowin/**/*.user
+fpga/gowin/src/*.rao
+*.fs
+*.bin
+*.binx
+*.db
+*.vo
+*.rpt
+
+# Local media captures are useful for demos, but too large for Git.
+media/videos/*
+!media/videos/.gitkeep
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+

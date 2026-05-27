@@ -1,0 +1,9 @@
++incdir+hardware/rtl/bldc
+hardware/rtl/bldc/tb.sv
+hardware/rtl/bldc/bldc_clock_divider.v
+hardware/rtl/bldc/BLDC_driver.v
+hardware/rtl/bldc/bldc_icb_regs.v
+hardware/rtl/bldc/bldc_output_compare.v
+hardware/rtl/bldc/bldc_rom_sync.v
+hardware/rtl/bldc/bldc_sine_phase.v
+hardware/rtl/bldc/bldc_sine_pwm.v
