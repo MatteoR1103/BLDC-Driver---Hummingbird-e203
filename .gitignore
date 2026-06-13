@@ -35,7 +35,7 @@ fpga/gowin/src/*.rao
 *.rpt
 
 # Local media captures are useful for demos, but too large for Git.
-media/videos/*
+# media/videos/*
 !media/videos/.gitkeep
 
 # OS/editor files

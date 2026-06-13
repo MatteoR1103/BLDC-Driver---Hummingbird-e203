@@ -1,5 +1,7 @@
 # FPGA BLDC Motor Controller for Hummingbird E203
 
+![Project setup](media/IMG_1216.JPG)
+
 This repository contains a custom brushless DC motor-controller peripheral integrated into a Hummingbird E203 RISC-V SoC. The project targets a Gowin GW2A-18 FPGA and drives an external three-phase H-bridge through six GPIO outputs.
 
 The design was built as an Intelligent Chip final project by Mattia Prandi and Matteo Rubini. The full original report is in [docs/final-report.pdf](docs/final-report.pdf).
